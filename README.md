@@ -25,3 +25,30 @@ __this will also be bold__
 3. item 3
    * item 3a
    * item 3b
+   
+![camry logo](camry.jpg "camry")
+
+<https://www.toyota.com.tw/?gclid=EAIaIQobChMI2pSCuqSO7AIVwWkqCh1pfwyiEAAYASAAEgLBEvD_BwE>
+
+David Beckham said:
+>生死有命，富貴由天
+
+\*literal asterisks\*
+
+\(literal asterisks\)
+
+\{literal asterisks\}
+
+- [x] @mentions
+
+- [ ] this is incomplete
+
+## `Markdown`
+
+| first | second | third |
+|:---- |:------:|------:|
+|cell 1 | cell 2| cell 3|
+
+:+1:
+:sparkles:
+:camel:
